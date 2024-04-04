@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0px;
+    padding:0px;
+    color: white;
+    background: linear-gradient(to top,black0% ,black 30%,white 70% ,white 70%);
+    height: 100vh;
+}
+#awais{
+    margin-left:235px ;
+    padding-top: 20px;
+    
+}
+#malik{
+    color: black;
+    background-color:white;
+    height:8vh;
+    display: flex;
+     
+}
+.aa{
+    display: flex;
+    font-size:7px ;
+}
+.ali{
+    display: flex;
+    font-size:7px ;
+    margin-left: 120px;
+    margin-top:10px ;
+}
+.khan{
+    display: flex;
+    margin-left:228px ;
+    padding-top:15px ;
+}
+#muneeb{
+    align-items: center;
+    background-color: white;
+    padding-left:240px;
+    color: black;
+    padding-right: 5px;
+    
+}
+#arif{
+    background-color: white;
+    height: 90px; ;
+}
+
